@@ -5,24 +5,12 @@ https://www.dataaccess.com/webservicesserver/numberconversion.wso?op=NumberToWor
 
 wsdl consumer
 
-OCT 20 - Tuesday | LEAVE
-https://ab.infosysta.com/jira/browse/TASK-18108
+Nov 1 - worked | Sunday
+https://ab.infosysta.com/jira/browse/TASK-19164
 
-OCT 21 - wends | LEAVE
-https://ab.infosysta.com/jira/browse/TASK-18190
+Nov 2 - worked | Monday
+https://ab.infosysta.com/jira/browse/TASK-19298
 
-Oct 22 - Thursday | LEAVE
-https://ab.infosysta.com/jira/browse/TASK-18340
-
-Oct 25 - Sunday | Worked
-https://ab.infosysta.com/jira/browse/TASK-18498
-
-Oct 26 - Monday | LEAVE
-https://ab.infosysta.com/jira/browse/TASK-18597
-
-Oct 27 - Tuesday | LEAVE
-https://ab.infosysta.com/jira/browse/TASK-18703
-
-Oct 28 - Wednesday | LEAVE
-https://ab.infosysta.com/jira/browse/TASK-18806
+Nov 3 - worked | Tuesday
+https://ab.infosysta.com/jira/browse/TASK-19381
 
