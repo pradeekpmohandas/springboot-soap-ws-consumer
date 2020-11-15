@@ -4,4 +4,4 @@ https://www.dataaccess.com/webservicesserver/numberconversion.wso?op=NumberToWor
 
 
 wsdl consumer
-
+https://smart.gdrfad.gov.ae/Public_Th/StatusInquiry_New.aspx
